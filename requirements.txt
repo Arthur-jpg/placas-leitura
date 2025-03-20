@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+easyocr
+ultralytics  # Para YOLO
+imutils
+numpy
+matplotlib
