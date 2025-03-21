@@ -1,0 +1,5 @@
+path: ../data  # Caminho base para os dados
+train: images/train  # Caminho relativo para imagens de treino
+val: images/val  # Caminho relativo para imagens de validação (se houver)
+nc: 1  # Número de classes
+names: ["placa"]  # Nome da classe
